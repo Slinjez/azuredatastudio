@@ -383,7 +383,7 @@
 		"fs": "0.0.1-security",
 		"fs-extra": "^8.1.0",
 		"generator-sqlops": "^0.10.4",
-		"handlebars": "^4.1.2",
+		"handlebars": "^4.7.7",
 		"openurl": "^1.1.1"
 	},
 	"devDependencies": {
@@ -398,7 +398,7 @@
 		"tslint": "^3.14.0",
 		"typemoq": "^2.1.0",
 		"typescript": "^2.9.2",
-		"vsce": "1.36.2",
+		"vsce": "1.103.1",
 		"vscode": "^1.1.6"
 	}
 }
